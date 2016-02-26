@@ -146,7 +146,7 @@ Player.prototype.collision = function () {
 // Player score on screen
 Player.prototype.drawText = function () {
 	ctx.fillStyle = '#8B0000';
-	ctx.font = '30px Fredericka the Great';
-	ctx.clearRect(160, 0, 180, 40);
-	ctx.fillText('Score  ' + this.score, 180, 30);
+	ctx.font = '35px Amatic SC';
+	ctx.clearRect(230, 0, 180, 40);
+	ctx.fillText('Score  ' + this.score, 230, 30);
 };
