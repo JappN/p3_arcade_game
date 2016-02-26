@@ -34,6 +34,3 @@ For the superclass fix:
 
 
 I don’t own Ricky. Ricky of The Walking Dead is the property of AMC, and are not my intellectual property. There is no financial gain made from this nor will any be sought. This is for educational purposes only.
-
-
-Learning how to code for this project was a challenge, since I have no JS experience, but thanks to the fellow Udacity students, friends and several hours researching books, stackoverflow and the internet, I was able to build the required file, hopefully without many mistakes. Thanks.
